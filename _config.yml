@@ -1,4 +1,3 @@
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-cayman
 title: Harry Potter Sammelkartenspiel
 
-theme: jekyll-theme-cayman
